@@ -1,6 +1,7 @@
 Flask
-yt-dlp
 flask-cors
 gunicorn
-google-generativeai
+yt-dlp
 moviepy
+scenedetect[opencv]
+google-generativeai
