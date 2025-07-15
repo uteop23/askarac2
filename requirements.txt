@@ -1,6 +1,0 @@
-Flask
-yt-dlp
-flask-cors
-gunicorn
-google-generativeai
-moviepy
